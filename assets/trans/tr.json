@@ -1,0 +1,15 @@
+{
+    "title": "Başlık",
+    "body": "İçerik",
+    "newPost": "Yeni posta",
+    "newAlbum": "Yeni albüm",
+    "postList": "Mesaj Listesi",
+    "albumList": "Albüm Listesi",
+    "formTitle": "Lütfen adresi girin",
+    "formContent": "Lütfen içeriği girin",
+    "editPost": "Gönderiyi düzenle",
+    "editAlbum": "Albüm düzenleme",
+    "postTitle": "Gönderi Başlığınızı girin",
+    "postContent": "Gönderi İçeriğinizi Girin",
+    "userId": "Kullanıcı kimliği"
+}

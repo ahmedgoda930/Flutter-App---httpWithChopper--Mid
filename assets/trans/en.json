@@ -1,0 +1,15 @@
+{
+    "title": "Title",
+    "body": "Content",
+    "newPost": "New Post",
+    "newAlbum": "New Album",
+    "postList": "Posts List",
+    "albumList": "Albums List",
+    "formTitle": "Please enter the address",
+    "formContent": "Please enter the content",
+    "editPost": "Edit post",
+    "editAlbum": "Album edit",
+    "postTitle": "Enter your Post Title",
+    "postContent": "Enter your Post Content",
+    "userId": "User ID"
+}

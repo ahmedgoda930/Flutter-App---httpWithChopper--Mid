@@ -1,0 +1,4 @@
+enum ResponseEnum {
+  Success,
+  Faild,
+}
